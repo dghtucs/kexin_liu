@@ -41,7 +41,4 @@ Skills
 
 I am passionate about leveraging my analytical skills and financial knowledge to make a positive impact in the finance industry. Connect with me through the links provided, or directly reach out at the contact information listed below. Let’s explore collaborative opportunities and drive success together!
 
-[Contact Information | 500+ Connections | Beijing, Haidian District]
-
----
-Feel free to customize the content above to better fit the layout and style of your personal website!
+For job opportunities or to connect with me, please feel free to contact me. I look forward to engaging with you!
