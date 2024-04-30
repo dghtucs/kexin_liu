@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kexin Liu / 刘可心"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kexin(Iris) Liu"
 description              : &description "personal description"
 url                      : https://dghtucs.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/kexin_liu" # the subpath of your site, e.g. "/blog"
